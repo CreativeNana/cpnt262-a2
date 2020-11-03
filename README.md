@@ -9,8 +9,8 @@
 
 ### * Comments: 
 With respect to the image path,
-  1. Use "match(/\w+$/)" to create an image path by taking only the latter word from the two combined image name, such as "Big Cat"
-  2. Then add the "image path" in animas.js to import the image path simply.
+  1. Used "match(/\w+$/)" to create an image path by taking only the latter word from the two combined image name, such as "Big Cat"
+  2. And then, modify it by adding the "image path" in animas.js to bring the image path more simply.
    
 ### * Attributions: 
   + acidtone: sample-code
